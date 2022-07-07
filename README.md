@@ -1,4 +1,4 @@
-# Brewery-SQL-Example / project
+# Brewery-SQL / project
 
 > This is a simple custom databse for brewery, prepared to practise skills of T-SQL and knowledge about rational databases.
 
