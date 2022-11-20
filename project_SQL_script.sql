@@ -66,7 +66,7 @@ CREATE TABLE [dbo].[Firmy](
 CREATE TABLE [dbo].[Klienci](
 	[ID] [int] PRIMARY KEY IDENTITY,
 	[Imie] [nvarchar] (50) NOT NULL,
-  [Nazwisko] [nvarchar] (100) NOT NULL,
+ 	[Nazwisko] [nvarchar] (100) NOT NULL,
 	[PESEL] [char] (11) UNIQUE NOT NULL,
 	[Email] [nvarchar] (100) NOT NULL,
 	[Telefon] [char] (9) NOT NULL,
