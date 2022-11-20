@@ -5,5 +5,5 @@
 ## Description
 The .sql file contains a script that creates and feeds the database. <br>The .pdf file contains the documentation, containing the structure, sample queries, or stored procedures.
 
-## Technologies
+## Technologies Used
 - T-SQL
