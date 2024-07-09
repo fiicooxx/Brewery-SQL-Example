@@ -1,9 +1,23 @@
-# Brewery-SQL / project
-
-> This is a simple custom databse for brewery, prepared to practise skills of T-SQL and knowledge about relational databases.
+# BrewerySQL
 
 ## Description
-The .sql file contains a script that creates and feeds the database. <br>The .pdf file contains the documentation, containing the structure, sample queries, or stored procedures.
+BrewerySQL is a project focused on creating a custom database for managing information related to a brewery. The project involves designing and implementing a relational database using SQL.
 
-## Technologies Used
-- T-SQL
+## Features
+- **Custom Database Creation:** Design and implementation of a relational database for brewery management.
+- **SQL Queries:** Examples and scripts for creating tables, inserting data, and performing queries.
+- **Database Management:** Tools and methods for managing and maintaining the brewery database.
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/filip-copija/BrewerySQL.git
+    cd BrewerySQL
+    ```
+2. Set up your SQL environment (e.g., MySQL, PostgreSQL).
+3. Run the provided SQL scripts to create and populate the database.
+
+## Usage
+1. Use the SQL scripts to create the database schema.
+2. Insert sample data using the provided scripts.
+3. Perform queries to retrieve and manage brewery-related information.
